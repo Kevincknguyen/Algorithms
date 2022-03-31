@@ -65,7 +65,7 @@
         }
     }
     if (output===Infinity){
-        output=0
+        return 0
     }
     return output
 };
