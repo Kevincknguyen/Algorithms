@@ -1,0 +1,2 @@
+$result="Hello";
+echo $result;
